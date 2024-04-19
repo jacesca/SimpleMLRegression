@@ -1,10 +1,10 @@
 # A simple machine learning project using scikit learn
-The objective of this model is to predict the specie of the penguin.
+The objective of this project is to show simple examples of how polynomial regression models works.
 
 Features:
-- Preprocessing data using scikit-learns
-- Pipelines to streamline the process
-- Modeling
+- Whole cycle of a Machine Learning Project in each case.
+- Datasets to practice.
+- Most common metrics to evaluate the model.
 
 ## Installing using GitHub
 - Fork the project into your GitHub
