@@ -25,7 +25,13 @@ pip install -r requirements.txt
 
 ## Run ML model
 ```
-python model.py
+python model-height.py
+python model-height-stat.py
+python model-house.py
+python model-height-2features.py
+python model-model-house-2features.py
+python model-polynomial.py
+python model-house-poly.py
 ```
 
 ## Others
@@ -45,4 +51,4 @@ flake8 model.py
 ```
 
 ## Extra documentation
-None
+- [How to plot in multiple subplots](https://stackoverflow.com/questions/31726643/how-to-plot-in-multiple-subplots)
